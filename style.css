@@ -1,0 +1,21 @@
+.main_div{
+    background-color: rgb(93, 20, 161);
+    
+}
+
+.copy_right_footer{
+    background-color:rgb(109, 189, 63);
+    font-size:30px;
+    font-family: cursive;
+    text-shadow: 5px 6px 9px whitesmoke;
+    color: black;
+    font-weight: bolder;
+}
+
+body{
+   text-align: center;
+   font-family: 'Courier New', Courier, monospace;
+   background-color: dodgerblue;
+   color: snow;
+   font-weight: unset;
+}
